@@ -1,26 +1,8 @@
-/* .my-row{
-    border: 1px solid red;
-    
+.area:hover{
+    fill-opacity: 0.2;
+    cursor: pointer;
 }
 
-.my-col-chart{
-    height: 200px;
+.area path{
+    stroke: #6b4559;
 }
-
-.my-col-row{
-    height: 200px;
-}
-
-.my-col-map{
-    border: 1px solid green;
-    height: 200px;
-}
-
-.my-col{
-    border: 1px solid green;
-    height: 100px;
-}
-
-.second-row{
-    height: 200px;
-} */
